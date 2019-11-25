@@ -1,0 +1,1 @@
+def ascending(list1):
